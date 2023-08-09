@@ -1,16 +1,15 @@
-### Hi there 👋
+# About me
+Hello everyone!
+I am working non-stop in wet-lab laboratories since 2009 where I started as a trained lab technician. I finished my PhD december 2022 in the group of [Prof. Rob Russell](http://russelllab.org). My job there included managing 'my own' laboratory, which includes supervising a permanent technical assistant & the occasional students.
 
-<!--
-**tschmenger/tschmenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Research
+My research focus lies on interrogating human health and disease & I try to use my insights and knowledge to answer questions related to this using wet-lab and dry-lab approaches. 
 
-Here are some ideas to get you started:
+During my PhD I started to delve into **Python** and **R** and I try to moderate between the wet-lab point of view and the bioinformation point of view when approaching bioinformatics problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Papers
+
+
+
+
