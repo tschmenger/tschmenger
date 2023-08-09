@@ -9,11 +9,21 @@ During my PhD I started to delve into **Python** and **R** and I try to moderate
 
 # Current Projects 
 ## Kinase Resistance
+Collaborative project with other members of the Russell lab.
+Will be published & made online soon. 
+
+More info will follow once ``Kinase Resistance`` is published and the repositories go public.
+
 
 ## Annotating Alignments (standalone)
+A variant of this is already used in the ``Kinase Resistance`` project. The version here will be more generalized and hence hopefully more useful for the wider scientific community. 
+
+More info will follow once ``Kinase Resistance`` is published and the repositories go public.
 
 ## PROTEORIZER
+This is my pet project. It follows a holistic approach by combining a trove of publicly available information on a protein of interest to determine whether a variants may be functional, and then also providing hints at how the particular variants may influence protein function. I am using **data mining** as well as **interrogation of 3D structures** combined with **naive bayesian combination** and a **random forest classifier** to come to a verdict. This aproach has a **fully functional web app** where the user simply provides a protein (gene name or uniprot accession) and a variant (or multiple variants).
 
+More info will follow once PROTEORIZER is published and the repository goes public.
 
 # Paper Selection
 
