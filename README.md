@@ -37,7 +37,9 @@ A glutaredoxin in the mitochondrial intermembrane space has stage-specific funct
 # Links
 
 [Researchgate](https://www.researchgate.net/profile/Torsten-Schmenger)
+
 [Google Scholar](https://scholar.google.com/citations?user=OvgMdSgAAAAJ&hl=en)
+
 [Linkedin](https://www.linkedin.com/in/dr-torsten-schmenger-85b79021b/)
 
 
