@@ -1,18 +1,16 @@
 # About me
 Hello everyone!
-I am working non-stop in wet-lab laboratories since 2009 where I started as a trained lab technician. I finished my PhD december 2022 in the group of [Prof. Rob Russell](http://russelllab.org). My job there included managing 'my own' laboratory, which includes supervising a permanent technical assistant & the occasional students.
+I was working non-stop in wet-lab laboratories between 2009 and 2024. In 2009 I started my training to become a lab technician and later I finished my PhD in december 2022 in the group of [Prof. Rob Russell](http://russelllab.org). My job there included managing 'my own' laboratory, which included supervising a permanent technical assistant & the occasional students. I am now a project engineer in nuclear waste storage and disposal!
 
 # Research
-My research focus lies on interrogating human health and disease & I try to use my insights and knowledge to answer questions related to this using wet-lab and dry-lab approaches. 
+My research focus still lies on interrogating human health and disease.
 
 During my PhD I started to delve into **Python** and **R** and I try to moderate between the wet-lab point of view and the bioinformation point of view when approaching bioinformatics problems.
 
 # Current Projects 
 ## Kinase Resistance
 Collaborative project with other members of the Russell lab.
-Will be published & made online soon. 
-
-More info will follow once ``Kinase Resistance`` is published and the repositories go public.
+This is a data-driven approach to predict the functional consequence of genetic changes in protein kinases. You can find the [preprint here](https://www.researchsquare.com/article/rs-5001235/v1) and the associated webserver is called [Activark](http://activark.russelllab.org/). My contributions were the wet lab experiments, the alignment viewer (also see my other associated project below) and conceptual ideas (see Proteorizer for familiar ideas).
 
 
 ## [Annotating Alignments (standalone)](https://github.com/tschmenger/Annotate_Alignments)
