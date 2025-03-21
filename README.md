@@ -15,6 +15,8 @@ This is a data-driven approach to predict the functional consequence of genetic 
 
 ## [Annotating Alignments (standalone)](https://github.com/tschmenger/Annotate_Alignments)
 A variant of this is already used in the ``Kinase Resistance`` project. The version here will be more generalized and hence hopefully more useful for the wider scientific community. 
+You can either visit the repo to use a command line tool or try my webserver [CALVI](https://schafft-wissen.org/CALVI/).
+
 This work does not yet have it's own technical paper, if you are using it please cite my proteorizer preprint:
 
 `Torsten Schmenger, Gaurav Diwan, Robert Bruce Russell. "PROTEORIZER: A holistic approach to untangle functional consequences of variants of unknown significance", https://doi.org/10.1101/2024.07.16.603688.`
