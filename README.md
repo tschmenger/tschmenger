@@ -36,7 +36,7 @@ This work heavily influenced [Activark](https://activark.russelllab.org/) and, o
 I have also started to work on other pet projects! 
 - DELPHI: Check out [DELPHI](https://schafft-wissen.org/delphi.html), where I randomize on different random tables that are commonly used in Dungeons & Dragons 5th Edition. No more thumbing through books to find the right table. This is a **work in progress**, more tables may be added over time.
 - Immunity, the game: I worked on my own [sidescrolling game](https://schafft-wissen.org/immunity.html), with educational purpose - of course. In this game you are a white blood cell. You will encounter different types of pathogens and must try to 'eat' them all! I offer 3 different game modes, one of them will have some educational content. This content may increase and get more fleshed out over time, so **work in progress** as well.
-- Crypts and Champions, project working name '[Dungeon Delvers](https://schafft-wissen.org/dungeon_delvers.html)': Perhaps my most ambitious pet project, a turn-based and auto-battling fantasy dungeon crawler with roguelike elements. Check it out! It is completely written in browser friendly JS (+HTML +CS of course). 
+- Crypts and Champions, project working name '[Dungeon Delvers](https://schafft-wissen.org/dungeon_delvers.html)': Perhaps my most ambitious pet project, a turn-based and auto-battling fantasy dungeon crawler with roguelike elements. Check it out! It is completely written in browser friendly JS (+HTML +CSS of course). 
 
 # Scientific Paper Selection
 
