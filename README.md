@@ -9,7 +9,7 @@ My research focus still lies on interrogating human health and disease.
 
 During my PhD I started to delve into **Python** and **R** and I am experienced in moderating between the wet-lab and the bioinformation point of view, when approaching big data problems. 
 
-# Current Projects 
+# Latest Projects 
 ## Kinase Resistance
 Collaborative project with other members of the Russell lab.
 This is a data-driven approach to predict the functional consequence of genetic changes in protein kinases. You can find the [preprint here](https://www.researchsquare.com/article/rs-5001235/v1) and the associated webserver is called [Activark](http://activark.russelllab.org/). My contributions were the wet lab experiments, the alignment viewer (also see my other associated project below) and conceptual ideas (see [Proteorizer](https://shiny.russelllab.org/proteorizer/) for very familiar ideas).
@@ -19,7 +19,7 @@ This is a data-driven approach to predict the functional consequence of genetic 
 A variant of this is already used in the ``Kinase Resistance`` project. The version here will be more generalized and hence hopefully more useful for the wider scientific community. 
 You can try my webserver [CALVI](https://schafft-wissen.org/CALVI/) or visit the repo to use a command line tool (legacy version).
 
-This work does not yet have it's own technical paper, if you are using it please cite my proteorizer preprint or the kinase paper from above:
+This work does not yet have it's own technical paper, if you are using it please cite my proteorizer preprint or even better the kinase paper from above.
 
 `Torsten Schmenger, Gaurav Diwan, Robert Bruce Russell. "PROTEORIZER: A holistic approach to untangle functional consequences of variants of unknown significance", https://doi.org/10.1101/2024.07.16.603688.`
 
