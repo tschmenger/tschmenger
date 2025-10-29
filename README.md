@@ -39,6 +39,7 @@ I have also started to work on other pet projects!
 - Crypts and Champions, project working name '[Dungeon Delvers](https://schafft-wissen.org/dungeon_delvers.html)': Perhaps my most ambitious pet project, a turn-based and auto-battling fantasy dungeon crawler with roguelike elements. Check it out! It is completely written in browser friendly JS (+HTML +CSS of course). 
 
 # Scientific Paper Selection
+- ``Singh, G., Schmenger, T., Gonzalez-Sanchez, J.C. et al. Discriminating activating, deactivating and resistance variants in protein kinases. Genome Med 17, 133 (2025). https://doi.org/10.1186/s13073-025-01564-z``
 
 - ``Schmenger, T., Diwan, G.D., Singh, G. et al. Never-homozygous genetic variants in healthy populations are potential recessive disease candidates. npj Genom. Med. 7, 54 (2022). https://doi.org/10.1038/s41525-022-00322-z``
 
