@@ -12,7 +12,7 @@ During my PhD I started to delve into **Python** and **R** and I am experienced 
 # Latest Projects 
 ## Kinase Resistance
 Collaborative project with other members of the Russell lab.
-This is a data-driven approach to predict the functional consequence of genetic changes in protein kinases. You can find the [preprint here](https://www.researchsquare.com/article/rs-5001235/v1) and the associated webserver is called [Activark](http://activark.russelllab.org/). My contributions were the wet lab experiments, the alignment viewer (also see my other associated project below) and conceptual ideas (see [Proteorizer](https://shiny.russelllab.org/proteorizer/) for very familiar ideas).
+This is a data-driven approach to predict the functional consequence of genetic changes in protein kinases. You can find the [paper here](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-025-01564-z#citeas) and the associated webserver is called [Activark](http://activark.russelllab.org/). My contributions were the wet lab experiments, the alignment viewer (also see my other associated project below) and conceptual ideas (see [Proteorizer](https://shiny.russelllab.org/proteorizer/) for very familiar ideas).
 
 
 ## [Annotating Alignments (standalone)](https://github.com/tschmenger/Annotate_Alignments)
