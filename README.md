@@ -2,7 +2,7 @@
 Hello everyone!
 I was working non-stop in wet-lab laboratories between 2009 and 2024. In 2009 I started my training to become a lab technician and later I finished my PhD in december 2022 in the group of [Prof. Rob Russell](http://russelllab.org). My job there included managing 'my own' laboratory, which included supervising a permanent technical assistant & the occasional students. I am now a project engineer in nuclear waste storage and disposal, and experiment with Javascript and VBA.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tschmenger&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tschmenger&layout=compact) -->
 
 # Research
 My research focus still lies on interrogating human health and disease.
