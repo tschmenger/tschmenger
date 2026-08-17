@@ -4,8 +4,9 @@ I was working non-stop in wet-lab laboratories between 2009 and 2024. In 2009 I 
 
 I am now a project engineer in nuclear waste storage and disposal, and experiment with Javascript and VBA.
 
+# Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tschmenger&layout=compact&langs_count=7)](https://github-stats-extended.vercel.app/api/top-langs?username=tschmenger&layout=compact&langs_count=7)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tschmenger&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite)](https://github-stats-extended.vercel.app/api?username=tschmenger&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite)
 # Research
 My research focus still lies on interrogating human health and disease.
 
